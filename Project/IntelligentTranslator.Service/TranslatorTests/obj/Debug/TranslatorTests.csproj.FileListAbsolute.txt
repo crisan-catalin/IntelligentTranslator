@@ -1,0 +1,7 @@
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\IntelligentTranslator.Service\TranslatorTests\bin\Debug\TranslatorTests.dll.config
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\IntelligentTranslator.Service\TranslatorTests\bin\Debug\TranslatorTests.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\IntelligentTranslator.Service\TranslatorTests\bin\Debug\TranslatorTests.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\IntelligentTranslator.Service\TranslatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\IntelligentTranslator.Service\TranslatorTests\obj\Debug\TranslatorTests.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\IntelligentTranslator.Service\TranslatorTests\obj\Debug\TranslatorTests.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\IntelligentTranslator.Service\TranslatorTests\obj\Debug\TranslatorTests.pdb
