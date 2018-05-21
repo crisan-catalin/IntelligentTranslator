@@ -1,0 +1,32 @@
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\bin\Debug\IntelligentTranslator.exe.config
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.csprojResolveAssemblyReference.cache
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\MainWindow.g.cs
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\App.g.cs
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator_MarkupCompile.cache
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator_MarkupCompile.lref
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\bin\Debug\IntelligentTranslator.exe
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\bin\Debug\IntelligentTranslator.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\MainWindow.baml
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.g.resources
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.Properties.Resources.resources
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.csproj.GenerateResource.Cache
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.exe
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\IntelligentTranslator\obj\Debug\App.baml
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\bin\Debug\IntelligentTranslator.exe.config
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.exe
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.pdb
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\bin\Debug\IntelligentTranslator.exe
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\bin\Debug\IntelligentTranslator.pdb
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\MainWindow.g.cs
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\App.g.cs
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator_MarkupCompile.cache
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator_MarkupCompile.lref
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\App.baml
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\MainWindow.baml
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.g.resources
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.Properties.Resources.resources
+C:\Users\Catalin\Desktop\Project NTT\Project\IntelligentTranslator\IntelligentTranslator\obj\Debug\IntelligentTranslator.csproj.GenerateResource.Cache

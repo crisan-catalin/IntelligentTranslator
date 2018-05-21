@@ -1,0 +1,7 @@
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\TranslatorTests\bin\Debug\TranslatorTests.dll
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\TranslatorTests\bin\Debug\TranslatorTests.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\TranslatorTests\bin\Debug\IntelligentTranslator.exe
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\TranslatorTests\bin\Debug\IntelligentTranslator.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\TranslatorTests\obj\Debug\TranslatorTests.csprojResolveAssemblyReference.cache
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\TranslatorTests\obj\Debug\TranslatorTests.dll
+c:\users\catalin\documents\visual studio 2015\Projects\IntelligentTranslator\TranslatorTests\obj\Debug\TranslatorTests.pdb

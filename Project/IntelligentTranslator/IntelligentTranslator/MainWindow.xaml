@@ -1,0 +1,56 @@
+﻿<Window x:Class="IntelligentTranslator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:converters="clr-namespace:IntelligentTranslator.Converters"
+        mc:Ignorable="d"
+        Title="Intelligent Translator | NTT Data" Height="450" Width="525"
+        DataContext="{StaticResource TranslationViewModel}">
+    <Window.Resources>
+        <converters:LanguageCultureConverter x:Key="LanguageCultureConverter" />
+        <converters:TextBoxBackgroundConverter x:Key="TextBoxBackgroundConverter" />
+    </Window.Resources>
+    <Border Padding="10">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Translate:" FontWeight="Bold" Margin="10,0,0,0" />
+                    <Label Padding="5,0,2,0">Language autodetect</Label>
+                    <TextBlock x:Name="InputLanguage" Text="{Binding TranslatedWordLanguage, Converter={StaticResource LanguageCultureConverter}}" FontWeight="DemiBold" Padding="0,0,0,0" />
+                </StackPanel>
+
+                <Border Background="{Binding WordFound, Converter={StaticResource TextBoxBackgroundConverter}}" Margin="10" Padding="0 10" BorderBrush="Gray" BorderThickness="1">
+                    <Grid>
+                        <TextBlock x:Name="TranslateWatermark" Foreground="LightSlateGray"  Text="{Binding Path=TranslationPlaceholder}" HorizontalAlignment="Left" Margin="8,0,0,0"/>
+                        <TextBox x:Name="TranslateTextBox" Text="{Binding Path=TranslationWord, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Background="Transparent" Margin="5,0,0,0" BorderThickness="0" HorizontalAlignment="Stretch" />
+                    </Grid>
+                </Border>
+
+                <TextBlock Text="Translation:" FontWeight="Bold" Margin="10,20,0,5" />
+                <ListView x:Name="ResultListView" ItemsSource="{Binding WordTranslations}" Height="auto" Margin="10,0,10,0">
+                    <ListView.Resources>
+                        <Style TargetType="{x:Type GridViewColumnHeader}">
+                            <Setter Property="HorizontalContentAlignment" Value="Left" />
+                        </Style>
+                    </ListView.Resources>
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn  DisplayMemberBinding="{Binding Path=culture, Converter={StaticResource LanguageCultureConverter}}" Width="80" Header="Language" />
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=word}" Header="Word" Width="400"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <TextBlock Text="Similar words:" FontWeight="Bold" Margin="10,20,0,5" />
+                <ListView x:Name="SimilarWordsListView" ItemsSource="{Binding SimilarWords}" Height="auto" Margin="10,0,10,0">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Width="480"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+        </ScrollViewer>
+    </Border>
+</Window>
